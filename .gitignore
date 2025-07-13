@@ -1,0 +1,7 @@
+result/
+.xmake/
+.venv/
+build/
+
+images/
+model/
