@@ -5,3 +5,6 @@ build/
 
 images/
 model/
+
+.cache/
+compile_commands.json
